@@ -16,6 +16,6 @@ An add adds the file to the stage... and a commit is a snapshot.
 In the context of quantum physics, parity is a type of symmetric relation.
 Now save and commit.
 
-Now save and try git diff before committing.
+Now save and try git diff before committing.de
 
-Add some more text for the pupose of examining the results of the git checkout command
+Add some more text for the pupose of examining the results of the git checkout commandDelete me please -----------**Delete me please**---------------Delete me please.
