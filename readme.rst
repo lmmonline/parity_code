@@ -19,3 +19,4 @@ Now save and commit.
 Now save and try git diff before committing.
 
 Add some more text for the pupose of examining the results of the git checkout command
+The line of text is gone --> git revert worked correctly.
